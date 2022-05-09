@@ -14,7 +14,6 @@ Additionally, users will be able to see if the Car is still in the Car Max deale
 # Challenges we ran into
 We were struggling with the LED light changing based on which vehicle is selected. We found the Raspberry Pi server was un-friendly at times and caused us a lot of hardships. 
 Also a big challenge was implementing the SQL database with our LED, due to problems in Raspberry Pi. We ended up using arduino for our Grove LCD Backlight.
-# Challenges We Faced
 
 # What we learned
 We learned a lot about Raspberry Pi, and how it functions. Also, how a database works and we were able to create a mock Rest API with vin numbers for every car. 
